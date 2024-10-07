@@ -1,0 +1,696 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.topo {
+   width: 100%;
+   max-width: 1336px;
+    height: 54px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border: 2px solid #DBDBDB;
+    z-index: 3;
+    background-color: white;
+}
+
+
+
+
+
+.logo img {
+    width: 103px;
+    height: 29px;
+    margin-top: 14px;
+    margin-left: 215px;
+   
+   
+}
+
+.menu {
+    font-size: 22px;
+    margin-top: 0px;
+    position: absolute;
+    top: 16px;
+    left: 42px;
+    
+    
+    
+}
+
+ion-icon:first-child{
+    margin-left: 1002px;
+    gap: 80px;
+}
+
+.story {
+    width: 100%;
+    max-width: 614px;
+    height: 118px;
+    margin-top: 88px;
+    margin-left: 215px;
+    border-radius: 3px;
+    border: 1px solid #DBDBDB;
+    position: relative;
+    overflow: hidden;
+}
+
+/* STORY 1 */
+    
+
+.st1 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+    z-index: 0;
+}
+
+.st1 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 23px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 39px;
+    text-align: center;
+}
+
+/* FIM DO STORY 1 */
+
+
+.st2 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 98px;
+    z-index: 0;
+}
+
+.st2 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 103px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst2 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 112px;
+    text-align: center;
+}
+
+/* FIM DO STORYS 2  */
+
+
+.st3 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 178px;
+    z-index: 0;
+}
+
+.st3 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 183px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst3 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 195px;
+    text-align: center;
+}
+
+
+/* FIM DO STORYS 3 */
+
+
+.st4 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 258px;
+    z-index: 0;
+}
+
+.st4 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 263px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst4 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 260px;
+    text-align: center;
+}
+
+/* FIM DO STORYS 4  */
+
+
+.st5 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 338px;
+    z-index: 0;
+}
+
+.st5 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 343px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst5 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 340px;
+    text-align: center;
+}
+
+/* FIM DO STORYS 5 */
+
+.st6 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 418px;
+    z-index: 0;
+}
+
+.st6 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 423px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst6 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 425px;
+    text-align: center;
+}
+
+/* FIM DO STORYS 6 */
+
+.st7 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 498px;
+    z-index: 0;
+}
+
+.st7 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 503px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+}
+
+.userst7 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+/* fim do storys 7 */
+
+.st8 img:first-child{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 18px;
+    left: 578px;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.st8 img:nth-child(2) {
+   width: 56px;
+    height: 56px;
+    margin-left: 583px;
+    margin-top: 23px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.userst8 {
+    
+    font-size: 12px;
+    line-height: 14.06px;
+    display: block;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 582px;
+    text-align: center;
+}
+
+/* fim dos storys */
+
+.sidebar {
+    
+    width: 100%;
+    max-width: 300px;
+    margin-left: 858px;
+    position: relative;
+}
+
+.meuperfil img {
+    width: 56px;
+    height: 56px;
+    margin-top: -89px;
+    margin-left: 0px;
+    border-radius: 28px;
+    position: absolute;
+    
+}
+
+.username {
+    margin-left: 73px;
+    position: absolute;
+    margin-top: -75px;
+    line-height: 16.41px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.name {
+    margin-left: 73px;
+    position: absolute;
+    margin-top: -60px;
+    line-height: 16.41px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #C7C7C7;
+}
+
+.sugestoes {
+   width: 100%;
+   max-width: 117px;
+   font-size: 12px;
+   line-height: 14.06px;
+   color:#8E8E8E;
+   font-weight: 500;
+   
+}
+
+.sg1 img, .sg2 img, .sg3 img, .sg4 img, .sg5 img {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+}
+
+.sg1 p, .sg2 p, .sg3 p, .sg4 p, .sg5 p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color:#262626;
+    
+}
+
+.sg1, .sg2, .sg3, .sg4, .sg5 {
+    display: flex;
+    align-items: center; 
+    gap: 5px; 
+    margin-top: 15px;
+}
+
+.sg1 p, .sg2 p, .sg3 p, .sg4 p, .sg5 p {
+    margin-left: 10px; 
+}
+
+.sg1 .seguir {
+    margin-left: 40px;
+    color: #139EF2; 
+    font-weight: 400; 
+    cursor: pointer;
+    line-height: 14.06px;
+    font-size: 12px; 
+}
+
+.sg2 .seguir {
+    margin-left: 82.2px;
+    color: #139EF2; 
+    font-weight: 400; 
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 14.06px; 
+}
+
+.sg3 .seguir {
+    margin-left: 27.5px;
+    color: #139EF2; 
+    font-weight: 400; 
+    cursor: pointer; 
+    font-size: 12px;
+    line-height: 14.06px;
+}
+
+.sg4 .seguir {
+    margin-left: 37px;
+    cursor: pointer; 
+    color: #139EF2; 
+    font-weight: 400; 
+    font-size: 12px;
+    line-height: 14.06px;
+}
+
+.sg5 .seguir {
+    margin-left: 65.5px;
+    color: #139EF2; 
+    cursor: pointer; 
+    font-weight: 400; 
+    font-size: 12px;
+    line-height: 14.06px;
+}
+
+/* FIM DA SIDEBAR */
+
+.post1 {
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    max-width: 616px;
+    height: 717px;
+    margin-left: 216px;
+    border:1px solid #DBDBDB ;
+    border-radius: 3px;
+    
+} 
+
+
+
+.post1 img:nth-child(3) {
+   max-width: 612px;
+   height: 612px;
+   margin-left: 1px;
+   margin-top: 15px;
+}
+
+.post1 img:first-child {
+    width: 32px ;
+    height: 32px;
+    border-radius: 16px;
+    margin-left: 17px;
+    margin-top: 15px;
+}
+
+.userpost {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color: #262626;
+    position: absolute;
+    left: 64px;
+    top: 23px;
+}
+
+.coracao {
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.coment {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left:10px;
+}
+
+.plane {
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.fav {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 465px;
+}
+
+/* FIM DO POST 1  */
+
+.post2 {
+    position: absolute;
+    top: 1007px;
+    width: 100%;
+    max-width: 616px;
+    height: 717px;
+    margin-left: 216px;
+    border:1px solid #DBDBDB ;
+    border-radius: 3px;
+    
+} 
+
+
+
+.post2 img:nth-child(3) {
+   max-width: 612px;
+   height: 612px;
+   margin-left: 1px;
+   margin-top: 15px;
+}
+
+.post2 img:first-child {
+    width: 32px ;
+    height: 32px;
+    border-radius: 16px;
+    margin-left: 17px;
+    margin-top: 15px;
+}
+
+.userpost {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color: #262626;
+    position: absolute;
+    left: 64px;
+    top: 23px;
+}
+
+.coracao {
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.coment {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left:10px;
+}
+
+.plane {
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.fav {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 465px;
+}
+
+/* fim do post 2  */
+
+.post3 {
+    position: absolute;
+    top: 1784px;
+    width: 100%;
+    max-width: 616px;
+    height: 717px;
+    margin-left: 216px;
+    border:1px solid #DBDBDB ;
+    border-radius: 3px;
+    
+} 
+
+
+
+.post3 img:nth-child(3) {
+   max-width: 612px;
+   height: 612px;
+   margin-left: 1px;
+   margin-top: 15px;
+}
+
+.post3 img:first-child {
+    width: 32px ;
+    height: 32px;
+    border-radius: 16px;
+    margin-left: 17px;
+    margin-top: 15px;
+}
+
+.userpost {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    color: #262626;
+    position: absolute;
+    left: 64px;
+    top: 23px;
+}
+
+.coracao {
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.coment {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left:10px;
+}
+
+.plane {
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.fav {
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 465px;
+}
+
+.barramobile {
+    display: none;
+}
+
+
+@media (max-width: 935px) {
+    .sidebar {
+        display: none; 
+    }
+
+    .menu {
+        display: flex;
+        justify-content: space-between;
+        width: 250px; /* Ajuste conforme necessário */
+        margin: 0 auto;
+        position: relative;
+        top: 16px;
+    }
+    
+.feed {
+    display: flex;
+    justify-content: space-between
+    }
+
+    .barramobile {
+        display: none;
+    }
+}
+
+@media (max-width: 614px) {
+    .menu {
+        display: none;
+    }
+    .sidebar {
+        display: none;
+    }
+
+    .feed {
+        width: 100vw;
+    }
+
+    .barramobile {
+        width: 612px ;
+        height: 54px;
+        top: 1215px;
+        border: 1px solid #DBDBDB;
+        margin-left: 1px;
+    }
+}
+
+
