@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'encode';
+  src: url(fontes/EncodeSans-VariableFont_wdth\,wght.ttf);
+}
+
+.titulos {
+    font-size: 52px;
+    font-family:'encode';
+    position: absolute;
+    left:76px;
+    right: 817px;
+    top: 160px;
+    line-height: 62px;
+    width: 700px;
+    height: 201px;
+    color: #C4160C;
+    font-weight: bold;
+}
+
+.titulos h5 {
+  font-size: 18px;
+  font-family: Encode san;
+  line-height: 22.5px;
+  margin-top: 29px;
+  color :#303134 ;
+  font-weight: lighter;
+  width: 522px;
+  margin-left: 5px;
+  
+  
+}
+
+.titulos a {
+  color: #C4160C;
+  text-decoration: none;
+}
+
+.materias h5 {
+  color: #303134;
+  text-decoration: none;
+  font-weight: bold;
+}

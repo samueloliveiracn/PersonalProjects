@@ -1,0 +1,64 @@
+.menus {
+   position: absolute;
+   top: 94px;
+   left: 0;
+   right: 0;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+    
+}
+
+.menus p {
+    position: relative;
+    margin: 0;
+    font-size: 19px;
+    
+
+}
+
+.menus :first-child {
+    color: #C3170C;
+}
+
+.menus :nth-child(3) {
+    color: #006766;
+}
+.menus :nth-child(2) {
+    color: #1E4B9B;
+}
+.menus :nth-child(4) {
+    color: #07AA47;
+}
+.menus :nth-child(5) {
+    color: #E3662B;
+}
+
+.menus :nth-child(7) {
+    color: #FF75BB;
+}
+.menus :nth-child(6) {
+    color: #FB0735;
+}
+.menus :nth-child(8) {
+    color: #EC7D00;
+}
+.menus :nth-child(9) {
+    color: #323333;
+}
+.menus :nth-child(10) {
+    color: #A81D83;
+}
+
+.logo {
+    position: absolute;
+    left: 0 ;
+    right: 0;
+    margin: auto;
+    margin-top: 22px ;
+    width: 171px;
+    height: 36px;
+}
+

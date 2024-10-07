@@ -1,0 +1,720 @@
+@font-face {
+    font-family: 'encode';
+    src: url(fontes/EncodeSans-VariableFont_wdth\,wght.ttf);
+}
+
+.materias img {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 76px;
+right: 0;
+top: 498px;
+border-radius: 12px;
+
+}
+
+.materia1 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 644px;
+    max-width: 193px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.materia1 h5 span {
+    display: block;
+    width: 100%;
+} 
+
+.materia1 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 619px;
+    line-height: 17.5px;
+    letter-spacing: -2%;
+    left: 76px;
+
+}
+
+.subtitulo {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 732.5px;
+    color: black;
+    left:76px;
+    max-width: 174px;
+    letter-spacing: -4.8%;
+    line-height: 19px;
+
+}
+
+
+.materia2 {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 217px;
+right: 0;
+top: 0;
+border-radius: 12px;
+line-height: 25px;
+letter-spacing: -4.5%;
+font-family: 'encode';
+}
+
+.materia2 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 644px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.text {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+}
+
+.materia2 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 619px;
+    line-height: 17.5px;
+    letter-spacing: -2%;
+    left: 76px;
+}
+
+.subtitulo2 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 732.5px;
+    color: black;
+    left:76px;
+    max-width: 180px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+    
+  
+}
+
+
+
+.materia3 {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 434px;
+right: 0;
+top: 0;
+border-radius: 12px;
+font-family:'encode';
+}
+
+.materia3 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 644px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.text2 {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+}
+
+.materia3 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 619px;
+    line-height: 17.5px;
+    letter-spacing: -2%;
+    left: 76px;
+}
+
+.subtitulo3 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 732.5px;
+    color: black;
+    left:76px;
+    max-width: 180px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+    
+  
+}
+
+
+.materia4 {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 0;
+right: 0;
+top: 0;
+border-radius: 12px;
+font-family:'encode';
+}
+
+.materia4 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 862px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.text3 {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+}
+
+.materia4 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 837px;
+    line-height: 17.5px;
+    letter-spacing: -2%;
+    left: 76px;
+    max-width: 192px;
+    width: 100%;
+}
+
+.subtitulo4 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 950.5px;
+    color: black;
+    left:76px;
+    max-width: 192px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+}
+
+.materia5 {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 217px;
+right: 0;
+top: 0;
+border-radius: 12px;
+font-family:'encode';
+}
+
+.materia5 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 862px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.text4 {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+}
+
+.materia5 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 837px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+    left: 76px;
+    max-width: 192px;
+    width: 100%;
+}
+
+.materia5 h5 span  {
+    display: block;
+    width: 100%;
+}
+
+.subtitulo5 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 950.5px;
+    color: black;
+    left:76px;
+    max-width: 192px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+}
+
+.materia6 {
+width: 193px;
+height: 110px;
+position: absolute;
+left: 434px;
+right: 0;
+top: 0;
+border-radius: 12px;
+font-family:'encode';
+}
+
+.materia6 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 76px;
+    right: 0;
+    top: 862px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+.text5 {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+}
+
+.materia6 h6  {
+    font-size: 14px;
+    color: #C4170C;
+    position: absolute;
+    top: 837px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+    left: 76px;
+    max-width: 192px;
+    width: 100%;
+}
+
+.materia6 h5 span  {
+    display: block;
+    width: 100%;
+}
+
+.subtitulo6 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 950.5px;
+    color: black;
+    left:76px;
+    max-width: 192px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+}
+
+.bloco2 img {
+    width: 240px;
+    height: 128px;
+    position: absolute;
+    left: 853px;
+    right: 0;
+    top: 162px;
+    border-radius: 12px;  
+}
+
+.materias7 {
+width: 240px;
+height: 110px;
+position: absolute;
+left: 0px;
+right: 0;
+top: 0;
+border-radius: 12px;
+font-family:'encode';
+}
+
+.materias7 h5 { 
+    font-family: 'encode';
+    font-size: 20px;
+    position: absolute;
+    left: 853px;
+    right: 0;
+    top: 326px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+    max-width: 240px;
+    width: 100%;
+    color: #2F3134;
+
+}
+
+.text6 {
+    font-family: 'encode';
+    max-width: 192px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 4.5%;
+    font-weight: bold;
+    
+}
+
+.materias7 h6  {
+    font-size: 14px;
+    color: #16AE54;
+    position: absolute;
+    top: 301px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+    left: 853px;
+    max-width: 192px;
+    width: 100%;
+}
+
+
+.subtitulo7 {
+    font-size: 14px;
+    font-family: 'encode';
+    position: absolute;
+    top: 414px;
+    color: #2F3134;
+    left: 853px;
+    max-width: 192px;
+    line-height:19px;
+    width: 100%;
+    letter-spacing: -4.8%;
+}
+
+.materias8 {
+    width: 240px;
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    right: 0;
+    top: 345px;
+    border-radius: 12px;
+    font-family:'encode';
+    }
+    
+    .materias8 h5 { 
+        font-family: 'encode';
+        font-size: 20px;
+        position: absolute;
+        left: 853px;
+        right: 0;
+        top: 326px;
+        line-height: 25px;
+        letter-spacing: -4.5%;
+        max-width: 240px;
+        width: 100%;
+        color: #2F3134;
+    
+    }
+    
+    .text7 {
+        font-family: 'encode';
+        max-width: 192px;
+        width: 100%;
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 4.5%;
+        font-weight: bold;
+        
+    }
+    
+    .materias8 h6  {
+        font-size: 14px;
+        color: #16AE54;
+        position: absolute;
+        top: 301px;
+        line-height: 25px;
+        letter-spacing: -4.5%;
+        left: 853px;
+        max-width: 192px;
+        width: 100%;
+    }
+
+
+
+    .materias9 {
+        width: 240px;
+        height: 110px;
+        position: absolute;
+        left: 0px;
+        right: 0;
+        top: 280px;
+        border-radius: 12px;
+        font-family:'encode';
+        }
+        
+        .materias9 h5 { 
+            font-family: 'encode';
+            font-size: 20px;
+            position: absolute;
+            left: 853px;
+            right: 0;
+            top: 326px;
+            line-height: 25px;
+            letter-spacing: -4.5%;
+            max-width: 240px;
+            width: 100%;
+            color: #2F3134;
+        
+        }
+        
+        .text8 {
+            font-family: 'encode';
+            max-width: 192px;
+            width: 100%;
+            font-size: 20px;
+            line-height: 25px;
+            letter-spacing: 4.5%;
+            font-weight: bold;
+            
+        }
+        
+        .materias9 h6  {
+            font-size: 14px;
+            color: #16AE54;
+            position: absolute;
+            top: 301px;
+            line-height: 25px;
+            letter-spacing: -4.5%;
+            left: 853px;
+            max-width: 192px;
+            width: 100%;
+        }
+
+        .materias10 {
+            width: 240px;
+            height: 110px;
+            position: absolute;
+            left: 312px;
+            right: 0;
+            top: -623px;
+            border-radius: 12px;
+            font-family:'encode';
+            }
+            
+            .materias10 h5 { 
+                font-family: 'encode';
+                font-size: 20px;
+                position: absolute;
+                left:312 px;
+                right: 0;
+                top: 326px;
+                line-height: 25px;
+                letter-spacing: -4.5%;
+                max-width: 240px;
+                width: 100%;
+                color: #2F3134;
+            
+            }
+            
+            .text9 {
+                font-family: 'encode';
+                max-width: 192px;
+                width: 100%;
+                font-size: 20px;
+                line-height: 25px;
+                letter-spacing: 4.5%;
+                font-weight: bold;
+                
+            }
+            
+            .materias10 h6  {
+                font-size: 14px;
+                color: #EC8006;
+                position: absolute;
+                top: 301px;
+                line-height: 25px;
+                letter-spacing: -4.5%;
+                left: 853px;
+                max-width: 192px;
+                width: 100%;
+            }
+
+            .materias11 {
+                width: 240px;
+                height: 110px;
+                position: absolute;
+                left: 0px;
+                right: 0;
+                top: 271px;
+                border-radius: 12px;
+                font-family:'encode';
+                }
+                
+                .materias11 h5 { 
+                    font-family: 'encode';
+                    font-size: 20px;
+                    position: absolute;
+                    left:312 px;
+                    right: 0;
+                    top: 326px;
+                    line-height: 25px;
+                    letter-spacing: -4.5%;
+                    max-width: 240px;
+                    width: 100%;
+                    color: #2F3134;
+                
+                }
+                
+                .text10 {
+                    font-family: 'encode';
+                    max-width: 192px;
+                    width: 100%;
+                    font-size: 20px;
+                    line-height: 25px;
+                    letter-spacing: 4.5%;
+                    font-weight: bold;
+                    
+                }
+                
+                .materias11 h6  {
+                    font-size: 14px;
+                    color: #EC8006;
+                    position: absolute;
+                    top: 301px;
+                    line-height: 25px;
+                    letter-spacing: -4.5%;
+                    left: 853px;
+                    max-width: 192px;
+                    width: 100%;
+                }
+
+                .subtitulo11 {
+                    font-size: 14px;
+                    font-family: 'encode';
+                    position: absolute;
+                    top: 385px;
+                    color: black;
+                    left: 853px;
+                    max-width: 217px;
+                    line-height:19px;
+                    width: 100%;
+                    letter-spacing: -4.8%;
+                    line-height: 2;
+                }
+             
+            .materias12 {
+                width: 240px;
+                height: 110px;
+                position: absolute;
+                left: 0px;
+                right: 0;
+                top: 599px;
+                border-radius: 12px;
+                font-family:'encode';
+                }
+                
+                .materias12 h5 { 
+                    font-family: 'encode';
+                    font-size: 20px;
+                    position: absolute;
+                    left:312 px;
+                    right: 0;
+                    top: 326px;
+                    line-height: 25px;
+                    letter-spacing: -4.5%;
+                    max-width: 240px;
+                    width: 100%;
+                    color: #2F3134;
+                
+                }
+                
+                .text11 {
+                    font-family: 'encode';
+                    max-width: 192px;
+                    width: 100%;
+                    font-size: 20px;
+                    line-height: 25px;
+                    letter-spacing: 4.5%;
+                    font-weight: bold;
+                    
+                }
+                
+                .materias12 h6  {
+                    font-size: 14px;
+                    color: #EC8006;
+                    position: absolute;
+                    top: 301px;
+                    line-height: 25px;
+                    letter-spacing: -4.5%;
+                    left: 853px;
+                    max-width: 192px;
+                    width: 100%;
+                }
+
+                .subtitulo12 {
+                    font-size: 14px;
+                    font-family: 'encode';
+                    position: absolute;
+                    top: 355px;
+                    color: black;
+                    left: 853px;
+                    max-width: 217px;
+                    line-height:19px;
+                    width: 100%;
+                    letter-spacing: -4.8%;
+                    line-height: 2;
+                }
+             
+    
+            
+    
+
+        
+
+    
+
+
+
+
+
+
+
